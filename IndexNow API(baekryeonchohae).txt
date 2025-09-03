@@ -3,7 +3,7 @@ Content-Type: application/json; charset=utf-8
 Host: api.indexnow.org
 {
   "host": "https://jiminchido.github.io/baekryeonchohae",
-  "key": "1b0ef4e94af24edfa291cbb9a24b056e",
+  "key": "05ff006ab35a446692ae2e41b7358bbe",
   "keyLocation": "https://jiminchido.github.io/baekryeonchohae/58515c41051043c7a07e2c0cc990ae85.txt",
   "urlList": [
       "https://jiminchido.github.io/baekryeonchohae/url1"
